@@ -17,8 +17,6 @@
 ---
 <h3 align="left">유저들이 추억을 쌓을 수 있는 게임을 만들기 위해 노력하는 개발자 한주형 입니다.</h3> </p>
 
-![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![js](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-
 > 게임 개발을 좋아하는 개발자입니다.</p>
 > 아직 부족한 부분이 많지만 노력하는 개발자입니다.</p>
 > 문제 해결을 위해 노력하는 개발자입니다.</p>
