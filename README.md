@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ju_Hyeong Han</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Game developer Ju_Hyeong Han</h1>
+<h3 align="center">I am a developer who tries to make a game.</h3>
+
+- 🔭 2023 게임소프트웨어 학과 졸업프로젝트 [Tower-of-Labyrinth](준비중)
+
+- 👯 네트워크 게임 개발 [Threat-of-Sky](준비중)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
