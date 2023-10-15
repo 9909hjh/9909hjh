@@ -1,5 +1,5 @@
-<h1 align="center">Game developer Ju_Hyeong Han</h1>
-<h3 align="center">I am a developer who tries to make a game.</h3>
+<h1 align="left">Game developer Ju_Hyeong Han</h1>
+<h3 align="left">I am a developer who tries to make a game.</h3>
 
 - 🔭 2023 게임소프트웨어 학과 졸업프로젝트 [Tower-of-Labyrinth](준비중)
 
